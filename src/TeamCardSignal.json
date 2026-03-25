@@ -1,0 +1,12 @@
+{
+    "id": "TeamCardSignal",
+    "name": "TeamCardSignal",
+    "pck_name": "TeamCardSignal",
+    "version": "0.2.0",
+    "author": "RichardSun",
+    "description": "Multiplayer card signal mod: hotkey ping for hovered card with prominent team notification.",
+    "has_dll": true,
+    "has_pck": true,
+    "affects_gameplay": true,
+    "dependencies": []
+}
